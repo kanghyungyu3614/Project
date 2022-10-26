@@ -11,8 +11,8 @@
   	<div id="main">
 		<!-- 네비게이션 시작 -->
 		<div id="main_title">
-			<div class="title_content" onclick="scroll1()">상품등록페이지</div>
-			<div class="title_content">상품문의게시판</div>
+			<div class="title_content"><a href="./admin.jsp">상품게시판</a></div>
+			<div class="title_content"><a href="./detail/productDetail.jsp">상품문의게시판</a></div>
 			<div class="title_content"><a href="./admin.jsp">관리자페이지</a></div>
 			<div class="title_content" onclick="logout()">로그아웃</div>
 		</div>  

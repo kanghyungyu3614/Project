@@ -86,15 +86,7 @@ a:visited{
 	
 }
 /*공지사항 안의 상세보기 글자,상담 문의 게시판 안의 상세보기 끝*/
-/* 상품등록게시판 시작*/
-#product_regist{
-	width: 1100px;
-	height: 600px;
-}
 
-
-
-/* 상품등록게시판 끝*/
 
 .nav_content1 table{
 	margin: 0 auto;
