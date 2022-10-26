@@ -42,6 +42,24 @@
 	display: flex;
 	margin-top: 20px;
 }
+/*공지사항등록버튼 색 조정 시작*/
+a:hover{
+	text-decoration: none;
+	color:black;
+}
+a:link{
+	text-decoration: none;
+	color:black;
+}
+a:active{
+	text-decoration: none;
+	color:black;
+}
+a:visited{
+	text-decoration: none;
+	color:black;
+}
+/*공지사항등록버튼 색 조정 끝*/
 /*공지사항 글짜 시작*/
 .nav_content1 #notice{
 	font-size: 28px;
@@ -203,22 +221,32 @@ td{
 	font-weight: 700;
 	margin-right: 10px;		
 }
-
-
-
-
-
-
-
-
-
-
 /*상품등록페이지 끝*/
 /*하단 시작*/
 footer{
 	width: 1200px;
 	height: 300px;
 	border: 1px solid black;
+	clear:both;
+	width:100%;
+	height: 200px;
+}
+/* GitLink*/
+.gitLink{
+	font-family: 'YdestreetB';
+	font-size:30px;
+	color: white;
+}
+.gitLink:hover, .gitLink:link , .gitLink:active , .gitLink:visited{
+	text-decoration: none;
+}
+
+
+
+/* footerURL  */
+#footerURL{
+	text-align:center;
+	padding-top: 60px;
 }
 /*하단 끝*/
 /* 모두 끝 */

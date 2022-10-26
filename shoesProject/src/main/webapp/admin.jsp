@@ -78,12 +78,23 @@
 			<span class="nav_detail">상세보기</span>
 		
 		</div>
+		<!-- 푸터 시작 -->
 		<footer>
+	        <div id="footerURL">
+	           <a class="gitLink" href="https://github.com/ANTAESEOP/KIM-AN_project">GitHub주소</a> |
+	           <a class="gitLink" href="https://www.figma.com/file/8Kxyjx0AdCmfHTwTl1ShGz/Untitled?node-id=4%3A2">Figma주소</a><br>           
+	           <a class="gitLink" href="https://github.com/kimkyoungju">김경주</a> | 
+	           <a class="gitLink" href="https://github.com/ANTAESEOP">안태섭</a> | 
+	           <a class="gitLink" href="https://github.com/Hinsang">인상</a> |
+	           <a class="gitLink" href="https://github.com/kanghyungyu3614">강현규</a> 
+	         </div>			
 		</footer>
+		<!-- 푸터 끝 -->
 		
 		<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 		<script type="text/javascript" src="./js/admin.js"></script>
 		
 	</div>
+	<!-- 마무리 -->
 </body>
 </html>
