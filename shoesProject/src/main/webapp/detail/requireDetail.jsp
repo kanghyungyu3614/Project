@@ -12,8 +12,8 @@
 <body>
 	<div id="main">
 		<div id="main_title">
-			<div class="title_content" onclick="scroll1()">상품등록</div>
-			<div class="title_content"><a href="./detail/requireDetail.jsp">상품문의게시판</a></div>
+			<div class="title_content"><a href="../admin.jsp">상품등록</a></div>
+			<div class="title_content"><a href="../admin.jsp">관리자게시판</a></div>
 			<div class="title_content"><a href="../notice.jsp">공지사항등록</a></div>
 			<div class="title_content" onclick="logout()">로그아웃</div>
 		</div>

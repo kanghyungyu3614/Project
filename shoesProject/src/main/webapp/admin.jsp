@@ -78,40 +78,13 @@
 			<span class="nav_detail"><a href="./detail/noticeDetail.jsp">상세보기</a></span>
 			<table id="product_regist"> <!--  이름, 전화번호, 사이즈, 상품이름, 모델번호, 컬러, 상품상세설명, 상품브랜드, 출시일, 가격 -->
 				<tr>
-					<th>이름</th>
-					<th><input type="text"></th>
-				</tr>
-				<tr>
-					<th>전화번호</th>
-					<th><input type="text"></th>
-				</tr>
-				<tr>
-					<th>사이즈</th>
-					<th><input type="text"></th>
-				</tr>
-				<tr>
-					<th>상품이름</th>
-					<th><input type="text"></th>
-				</tr>
-				<tr>
-					<th>모델번호</th>
-					<th><input type="text"></th>
-				</tr>
-				<tr>
-					<th>상품상세설명</th>
-					<th><input type="text"></th>
-				</tr>
-				<tr>
-					<th>상품브랜드</th>
-					<th><input type="text"></th>
-				</tr>
-				<tr>
-					<th>출시일</th>
-					<th><input type="text"></th>
-				</tr>
-				<tr>
-					<th>가격</th>
-					<th><input type="text"></th>
+					<th >사이즈</th>
+					<th >상품이름</th>
+					<th >모델번호</th>
+					<th >상품상세설명</th>
+					<th >상품브랜드</th>
+					<th >출시일</th>
+					<th >가격</th>
 				</tr>
 			</table>
 		
